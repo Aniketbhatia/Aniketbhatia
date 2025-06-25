@@ -12,7 +12,7 @@ Here, you’ll find:
 Whether you're exploring dashboards, brushing up on BI techniques, or looking for inspiration—you’re in the right place!
 
 🔗 **Let’s Connect**  
-[LinkedIn]:(linkedin.com/in/aniket-bhatiya-548051218)
+LinkedIn:(linkedin.com/in/aniket-bhatiya-548051218)
 
 🧰 **Tech Stack**  
 Qlik Sense | Qlik View | NPrinting | Power BI | SQL | DAX | Power Query | Excel
